@@ -1,0 +1,4 @@
+com\StudentManagement\demo\DTO\LoginResposeDto.class
+com\StudentManagement\demo\DTO\RegisterRequestDto.class
+com\StudentManagement\demo\DTO\RegisterResponseDto.class
+com\StudentManagement\demo\DTO\LoginRequestDto.class
