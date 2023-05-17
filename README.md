@@ -19,3 +19,10 @@ backend of this project is designed using **JAVA** as programming language and o
 # Recording of page working 
 https://github.com/nikhil-rawat02/user-login-register/assets/117645790/37789b0b-8d90-4582-85aa-eec1104b7a7f
 
+# AWS System Stats.
+![system Stats](https://github.com/nikhil-rawat02/user-login-register/assets/117645790/99ed0a51-3f6f-4d5b-bb46-4c732eee8b5a)
+
+# Spring Boot application running as service status.
+![service](https://github.com/nikhil-rawat02/user-login-register/assets/117645790/250cb024-9c4f-451d-bba6-10eb1035c6d8)
+
+
